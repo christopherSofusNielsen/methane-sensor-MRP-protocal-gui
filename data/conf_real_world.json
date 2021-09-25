@@ -1,0 +1,37 @@
+[
+  {
+    "samplingInterval": 60,
+    "samplings": 60,
+    "type": 2
+  },
+  {
+    "samplingInterval": 60,
+    "samplings": 10,
+    "type": 2
+  },
+  {
+    "samplingInterval": 60,
+    "samplings": 10,
+    "type": 2
+  },
+  {
+    "samplingInterval": 10,
+    "samplings": 30,
+    "type": 2
+  },
+  {
+    "samplingInterval": 10,
+    "samplings": 30,
+    "type": 2
+  },
+  {
+    "samplingInterval": 2,
+    "samplings": 150,
+    "type": 2
+  },
+  {
+    "samplingInterval": 60,
+    "samplings": 5,
+    "type": 2
+  }
+]

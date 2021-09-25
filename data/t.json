@@ -1,0 +1,57 @@
+[
+  {
+    "samplings": 400,
+    "type": 1,
+    "samplingInterval": 30
+  },
+  {
+    "samplings": 20,
+    "type": 1,
+    "samplingInterval": 15
+  },
+  {
+    "samplings": 20,
+    "type": 2,
+    "samplingInterval": 15
+  },
+  {
+    "samplings": 20,
+    "type": 2,
+    "samplingInterval": 15
+  },
+  {
+    "samplings": 20,
+    "type": 4,
+    "samplingInterval": 15
+  },
+  {
+    "samplings": 20,
+    "type": 4,
+    "samplingInterval": 15
+  },
+  {
+    "samplings": 20,
+    "type": 1,
+    "samplingInterval": 15
+  },
+  {
+    "samplings": 20,
+    "type": 1,
+    "samplingInterval": 15
+  },
+  {
+    "samplings": 20,
+    "type": 2,
+    "samplingInterval": 15
+  },
+  {
+    "samplings": 20,
+    "type": 2,
+    "samplingInterval": 15
+  },
+  {
+    "samplings": 20,
+    "type": 4,
+    "samplingInterval": 15
+  }
+]
