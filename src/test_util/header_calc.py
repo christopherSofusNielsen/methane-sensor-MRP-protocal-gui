@@ -28,7 +28,7 @@ class HeaderCalc:
             self.header.append(hex((col["length"] >> 8) & 255))
             self.header.append(hex(col["length"] & 255))
 
-        return self.header
+        return self.formatHeader()
 
     def getDataTypes(self, collections):
         dt = 0
@@ -49,3 +49,12 @@ class HeaderCalc:
         bytes.append((dt >> 8) & 255)
         bytes.append((dt) & 255)
         return bytes
+
+    def formatHeader(self):
+        headerStr = ""
+        headerStr += "\n"
+        headerStr += self.header[0]
+
+        for el in self.header:
+            headerStr += ", "+el
+        return headerStr
