@@ -52,8 +52,6 @@ class HeaderCalc:
 
     def formatHeader(self):
         headerStr = ""
-        headerStr += "\n"
-        headerStr += self.header[0]
 
         for el in self.header:
             headerStr += ", "+el

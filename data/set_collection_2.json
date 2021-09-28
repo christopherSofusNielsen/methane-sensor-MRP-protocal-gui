@@ -1,0 +1,12 @@
+[
+  {
+    "samplings": 25,
+    "type": 2,
+    "samplingInterval": 300
+  },
+  {
+    "samplings": 30,
+    "type": 2,
+    "samplingInterval": 40
+  }
+]
